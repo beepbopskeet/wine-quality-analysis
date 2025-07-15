@@ -29,8 +29,7 @@ The notebook includes exploratory data analysis (EDA), feature visualization, an
 - `wine-quality-analysis.ipynb` – Main notebook
 - `README.md` – Project description
 - Visuals: KDE plots, heatmap, histograms, scatterplots
-- Model: Random Forest Classifier
-- Evaluation: Accuracy, classification report, confusion matrix
+
 
 ---
 
@@ -51,7 +50,4 @@ The notebook includes exploratory data analysis (EDA), feature visualization, an
 
 ---
 
-## 📌 License
-
-This project is for educational purposes only.
 
